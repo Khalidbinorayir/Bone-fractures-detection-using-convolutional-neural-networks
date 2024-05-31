@@ -1,3 +1,5 @@
 this repository is an implementation of convolutional neural networks (CNN) to make a model that can detect the bone fractures.
 
 the model has been trained on the open acceses dataset from kaggle, and the dataset consists of multi-regional X-ray of bones.
+
+the dataset link : https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
